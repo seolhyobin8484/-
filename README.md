@@ -1,5 +1,11 @@
 # TAECHO - LoL 내전 관리 디스코드 봇
+<img width="1427" height="608" alt="Image" src="https://github.com/user-attachments/assets/e87c8047-7964-43a2-8d00-96375c37d617" />
 
+<img width="614" height="674" alt="Image" src="https://github.com/user-attachments/assets/d3c2f329-4554-4742-bdea-026c46eb9243" />
+
+<img width="1069" height="511" alt="Image" src="https://github.com/user-attachments/assets/b373118e-06d1-4ab7-864c-2b2934e964a8" />
+
+<img width="1427" height="780" alt="Image" src="https://github.com/user-attachments/assets/1b26890d-f472-44fe-b299-02a7a87fc504" />
 Google Sheets API 연동 기반 리그 오브 레전드 내전 전적 관리 및 승률 순위 조회 디스코드 봇입니다.
 
 ## 주요 기능
