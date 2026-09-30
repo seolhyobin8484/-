@@ -1,4 +1,4 @@
-# TAECHO - LoL 내전 관리 디스코드 봇
+# LoL 내전 관리 디스코드 봇
 
 
 ## 주요 기능
@@ -15,3 +15,14 @@ Google Sheet로 게임 인원들의 정보와 라인 별 점수판을 만듭니�
 <img width="614" height="674" alt="Image" src="https://github.com/user-attachments/assets/d3c2f329-4554-4742-bdea-026c46eb9243" />
 <img width="1069" height="511" alt="Image" src="https://github.com/user-attachments/assets/b373118e-06d1-4ab7-864c-2b2934e964a8" />
 디스코드 계정으로 접속해서 연동된 봇에게 명령어를 입력하면 Google Sheet와 연동되어 디스코드에서도 엑셀 내의 정보를 확인할 수 있습니다.
+
+
+---
+
+## 🛠 기술 스택
+
+- **Language:** Python 3.10+
+- **Library:** `discord.py` (v2.0+), `gspread`, `google-auth`
+- **Database / Storage:** Google Sheets API v4
+
+---
