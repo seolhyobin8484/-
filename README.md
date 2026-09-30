@@ -1,10 +1,7 @@
 # TAECHO - LoL 내전 관리 디스코드 봇
-<img width="1427" height="608" alt="Image" src="https://github.com/user-attachments/assets/e87c8047-7964-43a2-8d00-96375c37d617" />
-<img width="1427" height="780" alt="Image" src="https://github.com/user-attachments/assets/1b26890d-f472-44fe-b299-02a7a87fc504" />
-Google Sheet로 게임 인원들의 정보와 라인 별 점수판을 만듭니다.
+
 
 ## 주요 기능
-
 - **전적 / 승률 순위 조회**: 시트 데이터를 기반으로 상위 순위 및 개인 전적 출력
 - **유저 등록 UI**: Discord Dropdown 및 Model을 통한 회원 정보 입력 및 시트 자동 추가
 - **메모리 캐싱**: Google Sheets API Rate Limit 방지 및 응답 속도 최적화를 위한 시트 데이터 캐싱
