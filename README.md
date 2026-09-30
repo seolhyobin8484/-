@@ -19,8 +19,6 @@ Google Sheet로 게임 인원들의 정보와 라인 별 점수판을 만듭니�
 
 ---
 
-## 🛠 기술 스택
-
 - **Language:** Python 3.10+
 - **Library:** `discord.py` (v2.0+), `gspread`, `google-auth`
 - **Database / Storage:** Google Sheets API v4
